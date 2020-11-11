@@ -1,6 +1,6 @@
 {
   "name": "network-link-conditioner-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A CLI for the MacOS Network Link Conditioner using NodeJS and applescript",
   "main": "index.js",
   "scripts": {

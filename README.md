@@ -3,7 +3,7 @@
 
 
 
-# Node Network Link Conditioner Wrapper
+# Network Link Conditioner CLI
 [![npm version](https://img.shields.io/npm/v/network-link-conditioner-cli.svg?style=flat-square)](https://www.npmjs.org/package/network-link-conditioner-cli)
 
 *A node Network Link Conditioner CLI. 
