@@ -22,7 +22,7 @@ You also have to allow the accessibility-setting in 🍎 >system preferences>sec
  1. Have a device/VM that runs MacOS
  2. Have the *Network Link Conditioner* installed. Instructions can be found [here](https://nshipster.com/network-link-conditioner/).
 
- ## Installation
+## Installation
 
  ```bash
 $ npm install -g network-link-conditioner-cli
